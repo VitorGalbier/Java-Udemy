@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aluno-project/Aluno-project.iml" filepath="$PROJECT_DIR$/Aluno-project/Aluno-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-project2/Array-project2.iml" filepath="$PROJECT_DIR$/Array-project2/Array-project2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compisicao/Compisicao.iml" filepath="$PROJECT_DIR$/Compisicao/Compisicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Udemy.iml" filepath="$PROJECT_DIR$/.idea/Java-Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-project/array-project.iml" filepath="$PROJECT_DIR$/array-project/array-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-project/bank-project.iml" filepath="$PROJECT_DIR$/bank-project/bank-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employeeList - project/employeeList - project.iml" filepath="$PROJECT_DIR$/employeeList - project/employeeList - project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/empregado - project/empregado - project.iml" filepath="$PROJECT_DIR$/empregado - project/empregado - project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex1-java/ex1-java.iml" filepath="$PROJECT_DIR$/ex1-java/ex1-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-project/product-project.iml" filepath="$PROJECT_DIR$/product-project/product-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rent_room/rent_room.iml" filepath="$PROJECT_DIR$/rent_room/rent_room.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retangulo-project/retangulo-project.iml" filepath="$PROJECT_DIR$/retangulo-project/retangulo-project.iml" />
+    </modules>
+  </component>
+</project>
